@@ -1,0 +1,21 @@
+End of communicating events
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# interactive rebase in progress; onto d685796
+# Last commands done (25 commands done):
+#    pick 3cfcc7c L10 starting
+#    pick e6422eb End of communicating events
+# No commands remaining.
+# You are currently rebasing branch 'vue3prac' on 'd685796'.
+#
+# Changes to be committed:
+#	new file:   .idea/modules.xml
+#	new file:   .idea/vcs.xml
+#	new file:   .idea/vueground.iml
+#	modified:   .idea/workspace.xml
+#	modified:   components/ProductDisplay.js
+#	modified:   index.html
+#	modified:   main.js
+#

@@ -1,0 +1,142 @@
+0000000000000000000000000000000000000000 8d5ddd851e0d29f9ba073bcc94a719307c0f5238 marvin <marvin@finfiles.nl> 1680786116 +0800	clone: from https://github.com/Code-Pop/Intro-to-Vue-3.git
+8d5ddd851e0d29f9ba073bcc94a719307c0f5238 8d5ddd851e0d29f9ba073bcc94a719307c0f5238 marvin <marvin@finfiles.nl> 1680786937 +0800	checkout: moving from master to vue3prac
+8d5ddd851e0d29f9ba073bcc94a719307c0f5238 8d5ddd851e0d29f9ba073bcc94a719307c0f5238 marvin <marvin@finfiles.nl> 1680787013 +0800	reset: moving to HEAD
+8d5ddd851e0d29f9ba073bcc94a719307c0f5238 6ea7ba69e6f8d488d7c85d8638926437549ab535 marvin <marvin@finfiles.nl> 1680787015 +0800	rebase (start): checkout origin/L3-start
+6ea7ba69e6f8d488d7c85d8638926437549ab535 31657fc3f9bed1b5c78ee1b368458d0c9f761698 marvin <marvin@finfiles.nl> 1680787080 +0800	rebase (continue): L2 starting code
+31657fc3f9bed1b5c78ee1b368458d0c9f761698 7fe96b50c37da950319b7c10a697f62405d2c69c marvin <marvin@finfiles.nl> 1680787109 +0800	rebase (continue): Course starting code
+7fe96b50c37da950319b7c10a697f62405d2c69c 7fe96b50c37da950319b7c10a697f62405d2c69c marvin <marvin@finfiles.nl> 1680787110 +0800	rebase (continue) (finish): returning to refs/heads/vue3prac
+7fe96b50c37da950319b7c10a697f62405d2c69c 858cb30ad9d4ff37dcf53c22ab4cba40dedeea3f marvin <marvin@finfiles.nl> 1680819970 +0800	commit: Attribute Binding
+858cb30ad9d4ff37dcf53c22ab4cba40dedeea3f 70ac2311d70c111a206fa5116b96c82b9ca41475 marvin <marvin@finfiles.nl> 1680820323 +0800	commit: End of Attribute Binding
+70ac2311d70c111a206fa5116b96c82b9ca41475 b7ba9a971b577b632de02ffa3f549e8fc874c859 marvin <marvin@finfiles.nl> 1680820329 +0800	rebase (start): checkout origin/L4-start
+b7ba9a971b577b632de02ffa3f549e8fc874c859 500be1e686fac4229d7fc6ee30f464b0fdf6a9e7 marvin <marvin@finfiles.nl> 1680820329 +0800	rebase (pick): Lesson 3 starting
+500be1e686fac4229d7fc6ee30f464b0fdf6a9e7 bf053e398a8dfbb9ea0710a11d2c1c48b3186637 marvin <marvin@finfiles.nl> 1680820329 +0800	rebase (pick): L2 starting code
+bf053e398a8dfbb9ea0710a11d2c1c48b3186637 fc3f29264ed804d3fb3d2d3770daef0dc1ae4dbf marvin <marvin@finfiles.nl> 1680820329 +0800	rebase (pick): Course starting code
+fc3f29264ed804d3fb3d2d3770daef0dc1ae4dbf 625bbb356794d751858d08dd69601abf22193169 marvin <marvin@finfiles.nl> 1680820421 +0800	commit: Start of Conditional Binding
+625bbb356794d751858d08dd69601abf22193169 625bbb356794d751858d08dd69601abf22193169 marvin <marvin@finfiles.nl> 1680820435 +0800	rebase (continue) (finish): returning to refs/heads/vue3prac
+625bbb356794d751858d08dd69601abf22193169 dd9f6b6b346b7abc85aef031f11c30bcbdb00d15 marvin <marvin@finfiles.nl> 1680821054 +0800	commit: End of Condiitonal Rendering
+dd9f6b6b346b7abc85aef031f11c30bcbdb00d15 d0691a96dfafffd788ffa92a3fdd2d2893f2cd16 marvin <marvin@finfiles.nl> 1680821064 +0800	rebase (start): checkout origin/L5-start
+d0691a96dfafffd788ffa92a3fdd2d2893f2cd16 f8b9c57a441cb87fd50d05a5451fbddd09603f9c marvin <marvin@finfiles.nl> 1680821064 +0800	rebase (pick): Lesson 3 starting
+f8b9c57a441cb87fd50d05a5451fbddd09603f9c 60bf8740964dca39e5a4b5daf63223975aec4013 marvin <marvin@finfiles.nl> 1680821064 +0800	rebase (pick): L2 starting code
+60bf8740964dca39e5a4b5daf63223975aec4013 6c95e830cf9d5ccc5f3646b3790286b01311bbb6 marvin <marvin@finfiles.nl> 1680821064 +0800	rebase (pick): Course starting code
+6c95e830cf9d5ccc5f3646b3790286b01311bbb6 d23abaf4876e55cf8fec096f7d85064fe2e76791 marvin <marvin@finfiles.nl> 1680821064 +0800	rebase (pick): Start of Conditional Binding
+d23abaf4876e55cf8fec096f7d85064fe2e76791 9d5e200b8645dcaafffb42fc485cc6d9e5a23f1a marvin <marvin@finfiles.nl> 1680821161 +0800	commit: Start of List Rendering
+9d5e200b8645dcaafffb42fc485cc6d9e5a23f1a 9d5e200b8645dcaafffb42fc485cc6d9e5a23f1a marvin <marvin@finfiles.nl> 1680821171 +0800	rebase (continue) (finish): returning to refs/heads/vue3prac
+9d5e200b8645dcaafffb42fc485cc6d9e5a23f1a bbd5c289674ce1f6b173964c5cc9c000fe7f178f marvin <marvin@finfiles.nl> 1680821558 +0800	commit: End of List Rendering
+bbd5c289674ce1f6b173964c5cc9c000fe7f178f f91df3ac12a821ec2a5fdf257e0adfab05f3ed9e marvin <marvin@finfiles.nl> 1680821572 +0800	rebase (start): checkout origin/L6-start
+f91df3ac12a821ec2a5fdf257e0adfab05f3ed9e 274ef1ce65d83b8881144a3bc3d7412a09028a4c marvin <marvin@finfiles.nl> 1680821623 +0800	commit: Start of Enent Handling
+274ef1ce65d83b8881144a3bc3d7412a09028a4c 8b1b5e039d2ec34c0341b7f7e1dea34a3eee8aac marvin <marvin@finfiles.nl> 1680821676 +0800	commit: Start for Event Handling
+8b1b5e039d2ec34c0341b7f7e1dea34a3eee8aac 2c03fd6289b7041ccd16e47be6611c449b524bfa marvin <marvin@finfiles.nl> 1680821680 +0800	rebase (continue) (pick): Lesson 3 starting
+2c03fd6289b7041ccd16e47be6611c449b524bfa 35b835c72dcd701cd77fd70073f911adac75b78c marvin <marvin@finfiles.nl> 1680821680 +0800	rebase (continue) (pick): L2 starting code
+35b835c72dcd701cd77fd70073f911adac75b78c fe09a663908b05cb93679e262626dbc549d167ed marvin <marvin@finfiles.nl> 1680821680 +0800	rebase (continue) (pick): Course starting code
+fe09a663908b05cb93679e262626dbc549d167ed da52cff32a47115940f0eb7e111dafaa3018f245 marvin <marvin@finfiles.nl> 1680821722 +0800	commit: Start of Event Handling
+da52cff32a47115940f0eb7e111dafaa3018f245 6754baa8829bbfd22759702a622bcae84bbd206f marvin <marvin@finfiles.nl> 1680821778 +0800	commit: Start of Event Handling
+6754baa8829bbfd22759702a622bcae84bbd206f 33550f2c860bf7b1c2f4710e47aa3dd33becfb8f marvin <marvin@finfiles.nl> 1680821820 +0800	commit: Start of Event Handling
+33550f2c860bf7b1c2f4710e47aa3dd33becfb8f 33550f2c860bf7b1c2f4710e47aa3dd33becfb8f marvin <marvin@finfiles.nl> 1680821824 +0800	rebase (continue) (finish): returning to refs/heads/vue3prac
+33550f2c860bf7b1c2f4710e47aa3dd33becfb8f 44b7f5f2a003baac843b280e001e043c8e8cf9fc marvin <marvin@finfiles.nl> 1680821853 +0800	commit: refactored main.js
+44b7f5f2a003baac843b280e001e043c8e8cf9fc ccfd87e5574d0e88d685f8d802ebc35609bfd88a marvin <marvin@finfiles.nl> 1680823602 +0800	commit: End of Event Handling
+ccfd87e5574d0e88d685f8d802ebc35609bfd88a dbf00bb4a387075d50f417466192cc60a48dfceb marvin <marvin@finfiles.nl> 1680823633 +0800	rebase (start): checkout origin/L7-start
+dbf00bb4a387075d50f417466192cc60a48dfceb 6c305e7e76bdf6a9ce61d69ca97f43328d181d4c marvin <marvin@finfiles.nl> 1680823700 +0800	commit: Start of Class and Style Binding
+6c305e7e76bdf6a9ce61d69ca97f43328d181d4c 8e5013da6d6e164f8a6744290feb4f3cb83c0e91 marvin <marvin@finfiles.nl> 1680823722 +0800	rebase (continue): Update index.html
+8e5013da6d6e164f8a6744290feb4f3cb83c0e91 bab89921a4e2875798cb47d9644d88d98d093ddd marvin <marvin@finfiles.nl> 1680823726 +0800	commit: Start of Class and Style Binding
+bab89921a4e2875798cb47d9644d88d98d093ddd 72c6349dd32eaf0d5c96ff1601965f95420042f8 marvin <marvin@finfiles.nl> 1680823743 +0800	commit: Start of Class and Style Binding
+72c6349dd32eaf0d5c96ff1601965f95420042f8 8b4c38370332a9d7839b714fdf7121df30145e97 marvin <marvin@finfiles.nl> 1680823746 +0800	rebase (continue) (pick): L2 starting code
+8b4c38370332a9d7839b714fdf7121df30145e97 71f113c8516bbb3e9b4264e0d0fa06e3fd098528 marvin <marvin@finfiles.nl> 1680823746 +0800	rebase (continue) (pick): Course starting code
+71f113c8516bbb3e9b4264e0d0fa06e3fd098528 d3f038ee4c7341f973e5d0aca00a890e407581f8 marvin <marvin@finfiles.nl> 1680823783 +0800	commit: Start Class
+d3f038ee4c7341f973e5d0aca00a890e407581f8 cc51edfa9091b3323984f7ba3fe750bba869effa marvin <marvin@finfiles.nl> 1680823807 +0800	commit: kaikai likot
+cc51edfa9091b3323984f7ba3fe750bba869effa 00e2ad39bc51627dfad41e1850f82426ff45f9aa marvin <marvin@finfiles.nl> 1680823855 +0800	commit: kaikai likot
+00e2ad39bc51627dfad41e1850f82426ff45f9aa ca375c0f4b005a35349eca4e57b07316b8003ee8 marvin <marvin@finfiles.nl> 1680823876 +0800	commit: kaikai likot
+ca375c0f4b005a35349eca4e57b07316b8003ee8 46d25d06a9f3668da14ac960f815e0ef3c83371c marvin <marvin@finfiles.nl> 1680823895 +0800	commit: kaikai likot
+46d25d06a9f3668da14ac960f815e0ef3c83371c 780fff76d38f131956f57ece8c16ea2284d2fca2 marvin <marvin@finfiles.nl> 1680823918 +0800	commit: kaikai likot
+780fff76d38f131956f57ece8c16ea2284d2fca2 780fff76d38f131956f57ece8c16ea2284d2fca2 marvin <marvin@finfiles.nl> 1680823920 +0800	rebase (continue) (finish): returning to refs/heads/vue3prac
+780fff76d38f131956f57ece8c16ea2284d2fca2 9b55bb87502cc13f4b0e6a6350823c4b6a67fa1e marvin <marvin@finfiles.nl> 1680827457 +0800	commit: End of Class and Style Binding
+9b55bb87502cc13f4b0e6a6350823c4b6a67fa1e df8fcd0ab62e3b13b2aa855d4f916c53c1319217 marvin <marvin@finfiles.nl> 1680827468 +0800	rebase (start): checkout origin/L8-start
+df8fcd0ab62e3b13b2aa855d4f916c53c1319217 cb8ae5f38cd3d8bed6b4f84007851d95b719c59b marvin <marvin@finfiles.nl> 1680827468 +0800	rebase (pick): L7 starting code
+cb8ae5f38cd3d8bed6b4f84007851d95b719c59b 732402b0f91fb3ee7a8540a4e36b3ac806ad63af marvin <marvin@finfiles.nl> 1680827468 +0800	rebase (pick): L7 starting code
+732402b0f91fb3ee7a8540a4e36b3ac806ad63af 50382f7c20b705af9566b2a192dae0f67efcda0e marvin <marvin@finfiles.nl> 1680827468 +0800	rebase (pick): Start of Class and Style Binding
+50382f7c20b705af9566b2a192dae0f67efcda0e f51ff60165ec026ce54a1c141d51ed3cb01f3274 marvin <marvin@finfiles.nl> 1680827468 +0800	rebase (pick): Update index.html
+f51ff60165ec026ce54a1c141d51ed3cb01f3274 ec3f4aa177061fa440e7d9a1976ef78a34de90e7 marvin <marvin@finfiles.nl> 1680827468 +0800	rebase (pick): Start of Class and Style Binding
+ec3f4aa177061fa440e7d9a1976ef78a34de90e7 9853f35b5f6ac791020ce5138c81c2c0768f320a marvin <marvin@finfiles.nl> 1680827468 +0800	rebase (pick): Start of Class and Style Binding
+9853f35b5f6ac791020ce5138c81c2c0768f320a 66280c08ab1766721dabd7a6ceadc50461a7fa1d marvin <marvin@finfiles.nl> 1680827468 +0800	rebase (pick): L2 starting code
+66280c08ab1766721dabd7a6ceadc50461a7fa1d c7de375f30895e677b4ed5ceac6e39017d1f5ce5 marvin <marvin@finfiles.nl> 1680827468 +0800	rebase (pick): Course starting code
+c7de375f30895e677b4ed5ceac6e39017d1f5ce5 db6963eb310545b9d82621d0c4758ed0ed8637ef marvin <marvin@finfiles.nl> 1680827468 +0800	rebase (pick): Start Class
+db6963eb310545b9d82621d0c4758ed0ed8637ef 42a5ef64efc194715816dcf07eb221c396ad9acd marvin <marvin@finfiles.nl> 1680827468 +0800	rebase (pick): kaikai likot
+42a5ef64efc194715816dcf07eb221c396ad9acd 7ce32a2a83ff502ead708ecaac28ca425b28ea1b marvin <marvin@finfiles.nl> 1680827468 +0800	rebase (pick): kaikai likot
+7ce32a2a83ff502ead708ecaac28ca425b28ea1b ec93f5ff7587abc9b47cf9c7789b75fc4a5adb80 marvin <marvin@finfiles.nl> 1680827468 +0800	rebase (pick): kaikai likot
+ec93f5ff7587abc9b47cf9c7789b75fc4a5adb80 f34718e9daa00144a1bbfe946d85606abc9651f3 marvin <marvin@finfiles.nl> 1680827468 +0800	rebase (pick): kaikai likot
+f34718e9daa00144a1bbfe946d85606abc9651f3 62f2974f7440d3e48aeeac4f176ca7c5ecac6397 marvin <marvin@finfiles.nl> 1680827468 +0800	rebase (pick): kaikai likot
+62f2974f7440d3e48aeeac4f176ca7c5ecac6397 e784966b9bc2a483b2e86c7dd7c3637c1a501c73 marvin <marvin@finfiles.nl> 1680827468 +0800	rebase (pick): End of Class and Style Binding
+e784966b9bc2a483b2e86c7dd7c3637c1a501c73 e784966b9bc2a483b2e86c7dd7c3637c1a501c73 marvin <marvin@finfiles.nl> 1680827468 +0800	rebase (finish): returning to refs/heads/vue3prac
+e784966b9bc2a483b2e86c7dd7c3637c1a501c73 e784966b9bc2a483b2e86c7dd7c3637c1a501c73 marvin <marvin@finfiles.nl> 1680827507 +0800	checkout: moving from vue3prac to vue3prac
+e784966b9bc2a483b2e86c7dd7c3637c1a501c73 dbf00bb4a387075d50f417466192cc60a48dfceb marvin <marvin@finfiles.nl> 1680827520 +0800	rebase (start): checkout origin/L7-start
+dbf00bb4a387075d50f417466192cc60a48dfceb 3101d47fb3aecad4cb6d7c2b0776d5409ba3b570 marvin <marvin@finfiles.nl> 1680827576 +0800	commit: Start of Computed properties
+3101d47fb3aecad4cb6d7c2b0776d5409ba3b570 7cb5bbf2caeb21a695061ff8395c26b2b39d3b43 marvin <marvin@finfiles.nl> 1680827597 +0800	commit: Start of Computed properties
+7cb5bbf2caeb21a695061ff8395c26b2b39d3b43 07dddf915a8d47ad237086935f378c7ad41b5933 marvin <marvin@finfiles.nl> 1680827618 +0800	commit: Start of Computed properties
+07dddf915a8d47ad237086935f378c7ad41b5933 660d36c968e10ae787a57f98a09ffee56c26c147 marvin <marvin@finfiles.nl> 1680827629 +0800	commit: Start of Computed properties
+660d36c968e10ae787a57f98a09ffee56c26c147 0706ac13a65ac8427301010c97c20511452597ff marvin <marvin@finfiles.nl> 1680827639 +0800	commit: Start of Computed properties
+0706ac13a65ac8427301010c97c20511452597ff 5998d057a0fbf57a6f1d81cbeab69984a1419550 marvin <marvin@finfiles.nl> 1680827641 +0800	rebase (continue) (pick): L2 starting code
+5998d057a0fbf57a6f1d81cbeab69984a1419550 66c84086ec73e531aa3a556d4b3fb3d707607d40 marvin <marvin@finfiles.nl> 1680827641 +0800	rebase (continue) (pick): Course starting code
+66c84086ec73e531aa3a556d4b3fb3d707607d40 9f05b8858e92922371692f2d310ccb932c5cbc24 marvin <marvin@finfiles.nl> 1680827657 +0800	commit: Start of Computed propertie
+9f05b8858e92922371692f2d310ccb932c5cbc24 e136ed9cc836311d5ae92ac46cd5b0394d82297d marvin <marvin@finfiles.nl> 1680827663 +0800	rebase (continue) (pick): kaikai likot
+e136ed9cc836311d5ae92ac46cd5b0394d82297d 8898de5d743535c87a95d486ad6d50ec6a70bec5 marvin <marvin@finfiles.nl> 1680827682 +0800	commit: Start of Computed propertie
+8898de5d743535c87a95d486ad6d50ec6a70bec5 da4bc65342b8c64f925c2cd80c1ed3f564886d7f marvin <marvin@finfiles.nl> 1680827701 +0800	commit: Start of Computed propertie
+da4bc65342b8c64f925c2cd80c1ed3f564886d7f e1cbc625b8c8f17a101f3ff8ba338dbdd6d4fa04 marvin <marvin@finfiles.nl> 1680827712 +0800	rebase (continue): kaikai likot
+e1cbc625b8c8f17a101f3ff8ba338dbdd6d4fa04 87837e6cd3fe949eb7c7b840f1af88022308202f marvin <marvin@finfiles.nl> 1680827738 +0800	commit: Start of Computed propertie
+87837e6cd3fe949eb7c7b840f1af88022308202f 2efceac8ccb336debe86a96e63088e6389f42ac3 marvin <marvin@finfiles.nl> 1680827758 +0800	commit: Start of Computed propertie
+2efceac8ccb336debe86a96e63088e6389f42ac3 2efceac8ccb336debe86a96e63088e6389f42ac3 marvin <marvin@finfiles.nl> 1680827759 +0800	rebase (continue) (finish): returning to refs/heads/vue3prac
+2efceac8ccb336debe86a96e63088e6389f42ac3 05db5fd2bd48096de2656990965177a0a395b562 marvin <marvin@finfiles.nl> 1680834166 +0800	commit: End of Computed properties
+05db5fd2bd48096de2656990965177a0a395b562 bc68ec8034f131a1b21d6d43497decc868b335c9 marvin <marvin@finfiles.nl> 1680834179 +0800	rebase (start): checkout origin/L9-start
+bc68ec8034f131a1b21d6d43497decc868b335c9 833d588d7cb875caef98decc49757f8a6f0cc6a0 marvin <marvin@finfiles.nl> 1680834179 +0800	rebase (pick): L7 solution
+833d588d7cb875caef98decc49757f8a6f0cc6a0 8d6fc6bbdd6ca7664b329d2fc8b080707e4da977 marvin <marvin@finfiles.nl> 1680834211 +0800	commit: Start of Components and props
+8d6fc6bbdd6ca7664b329d2fc8b080707e4da977 37fcffdf11febf768e776443969bb57bf5899a56 marvin <marvin@finfiles.nl> 1680834247 +0800	commit: Start of Components and props
+37fcffdf11febf768e776443969bb57bf5899a56 81b14bef0e579f6e96deb907caa5ca5f90973158 marvin <marvin@finfiles.nl> 1680834249 +0800	rebase (continue) (pick): Start of Computed properties
+81b14bef0e579f6e96deb907caa5ca5f90973158 6618ed8440515cbd401e4ec8ca0f72a0ad3710bb marvin <marvin@finfiles.nl> 1680834275 +0800	commit: Start of Components and props
+6618ed8440515cbd401e4ec8ca0f72a0ad3710bb 557d64c66c9f71e7f09d99703413ea00dcdcf0f9 marvin <marvin@finfiles.nl> 1680834277 +0800	rebase (continue) (pick): Start of Computed properties
+557d64c66c9f71e7f09d99703413ea00dcdcf0f9 b619ab36ae53035f90cadd8c32c7d6b9ba95666e marvin <marvin@finfiles.nl> 1680834303 +0800	commit: Start of Components and props
+b619ab36ae53035f90cadd8c32c7d6b9ba95666e 53168fde57dcdafde569446d78b7a62c69c5b709 marvin <marvin@finfiles.nl> 1680834323 +0800	commit: Start of Components and props
+53168fde57dcdafde569446d78b7a62c69c5b709 2c9d18fc195c36509cfa37745f2d10257a2ec26d marvin <marvin@finfiles.nl> 1680834324 +0800	rebase (continue) (pick): L2 starting code
+2c9d18fc195c36509cfa37745f2d10257a2ec26d c33094b3256e1fd59160499c57b32256caf46aad marvin <marvin@finfiles.nl> 1680834324 +0800	rebase (continue) (pick): Course starting code
+c33094b3256e1fd59160499c57b32256caf46aad 2a009246f502a13769de5d9a3eae3824d1e08e73 marvin <marvin@finfiles.nl> 1680834360 +0800	commit: Start of Components and props
+2a009246f502a13769de5d9a3eae3824d1e08e73 e386bd4b419b84ec837d9ad81b6142ed0ff8c73f marvin <marvin@finfiles.nl> 1680834376 +0800	commit: Start of Components and props
+e386bd4b419b84ec837d9ad81b6142ed0ff8c73f a7075747608f12de2939b7923c8fa8c284218484 marvin <marvin@finfiles.nl> 1680834377 +0800	rebase (continue) (pick): Start of Computed propertie
+a7075747608f12de2939b7923c8fa8c284218484 e2aea3d57877d9b3c16d8669f9fef52f628d12fc marvin <marvin@finfiles.nl> 1680834377 +0800	rebase (continue) (pick): Start of Computed propertie
+e2aea3d57877d9b3c16d8669f9fef52f628d12fc 7b24278087644fa2dd89bafc8dba26b60b2525f9 marvin <marvin@finfiles.nl> 1680834377 +0800	rebase (continue) (pick): kaikai likot
+7b24278087644fa2dd89bafc8dba26b60b2525f9 3e33347c182fc0c5f3f6250399350e5e473f6091 marvin <marvin@finfiles.nl> 1680834377 +0800	rebase (continue) (pick): Start of Computed propertie
+3e33347c182fc0c5f3f6250399350e5e473f6091 272285cbd218f3926438bc607d093b71a552e9df marvin <marvin@finfiles.nl> 1680834408 +0800	commit: Start of Components and props
+272285cbd218f3926438bc607d093b71a552e9df 34ac5056296023140bc5c649d2a8d6006904ffdc marvin <marvin@finfiles.nl> 1680834470 +0800	commit: Start of Components and props
+34ac5056296023140bc5c649d2a8d6006904ffdc 34ac5056296023140bc5c649d2a8d6006904ffdc marvin <marvin@finfiles.nl> 1680834472 +0800	rebase (continue) (finish): returning to refs/heads/vue3prac
+34ac5056296023140bc5c649d2a8d6006904ffdc 4136dc8ceeff5f2c113b82020c72aea469274a4a marvin <marvin@finfiles.nl> 1680835972 +0800	commit: End of component
+4136dc8ceeff5f2c113b82020c72aea469274a4a fd0a43c03c0ea2e06a7690c6bfc6aeab6b2f24c2 marvin <marvin@finfiles.nl> 1680836787 +0800	commit: End of Components and props
+fd0a43c03c0ea2e06a7690c6bfc6aeab6b2f24c2 6253c369396c4da6123a3a1bc3d9d529bfc8bc9b marvin <marvin@finfiles.nl> 1680836809 +0800	rebase (start): checkout origin/L10-start
+6253c369396c4da6123a3a1bc3d9d529bfc8bc9b 4d98ca9031c77e9e29e3707e2f49e72188611b79 marvin <marvin@finfiles.nl> 1680836865 +0800	commit: Rebase to L10
+4d98ca9031c77e9e29e3707e2f49e72188611b79 619580014a8fb01982e5465238442174ce74a9d2 marvin <marvin@finfiles.nl> 1680836902 +0800	commit: Rebase to L10
+619580014a8fb01982e5465238442174ce74a9d2 fd0a43c03c0ea2e06a7690c6bfc6aeab6b2f24c2 marvin <marvin@finfiles.nl> 1680836956 +0800	rebase (abort): updating HEAD
+fd0a43c03c0ea2e06a7690c6bfc6aeab6b2f24c2 cbbe1c3a44a8553e366586113f260967d315094a marvin <marvin@finfiles.nl> 1680837062 +0800	commit (merge): Merge remote-tracking branch 'origin/L10-start' into vue3prac
+cbbe1c3a44a8553e366586113f260967d315094a e6422eb2a64b81b67655d9e39939afebac404cc2 marvin <marvin@finfiles.nl> 1681192220 +0800	commit: End of communicating events
+e6422eb2a64b81b67655d9e39939afebac404cc2 d685796e25329f7f34e7ec9fa8cf8ce725e9f425 marvin <marvin@finfiles.nl> 1681192235 +0800	rebase (start): checkout origin/L11-start
+d685796e25329f7f34e7ec9fa8cf8ce725e9f425 b27fba60592074971a32b3a958fccefdd59f4b69 marvin <marvin@finfiles.nl> 1681192270 +0800	rebase (continue): update
+b27fba60592074971a32b3a958fccefdd59f4b69 5af6becfb303db5c2a0a979d566ba503ed952d8a marvin <marvin@finfiles.nl> 1681192281 +0800	rebase (continue): L7 solution
+5af6becfb303db5c2a0a979d566ba503ed952d8a 26a01e700e994ab3cf20b957b4b1e8f0ac90dd1e marvin <marvin@finfiles.nl> 1681192282 +0800	rebase (continue) (pick): Start of Components and props
+26a01e700e994ab3cf20b957b4b1e8f0ac90dd1e d7f3fdf25a83157af0983404c43de7cf5595000a marvin <marvin@finfiles.nl> 1681192282 +0800	rebase (continue) (pick): Start of Components and props
+d7f3fdf25a83157af0983404c43de7cf5595000a 06b400cc16243472a24b6930510be93c02217b55 marvin <marvin@finfiles.nl> 1681192284 +0800	rebase (continue): Start of Computed properties
+06b400cc16243472a24b6930510be93c02217b55 7c6b62d6a5c697bbe2ab449d3c91afe352ed6f2b marvin <marvin@finfiles.nl> 1681192296 +0800	rebase (continue): Start of Components and props
+7c6b62d6a5c697bbe2ab449d3c91afe352ed6f2b 11bc9f646068d4c22b553d99f6bd013154745ff2 marvin <marvin@finfiles.nl> 1681192301 +0800	rebase (continue): Start of Computed properties
+11bc9f646068d4c22b553d99f6bd013154745ff2 eea1aabbf6f2fef66aafef024e6155bda3fb6789 marvin <marvin@finfiles.nl> 1681192305 +0800	rebase (continue): Start of Components and props
+eea1aabbf6f2fef66aafef024e6155bda3fb6789 31d61d1e2d233673d6f8c141bbd1a07d64058e03 marvin <marvin@finfiles.nl> 1681192309 +0800	rebase (continue): Start of Components and props
+31d61d1e2d233673d6f8c141bbd1a07d64058e03 73798c01f8f6328039fc043bfe46fceb81727ca7 marvin <marvin@finfiles.nl> 1681192310 +0800	rebase (continue) (pick): L2 starting code
+73798c01f8f6328039fc043bfe46fceb81727ca7 18c587df90a223a85e28f81fbe00f91e515b765e marvin <marvin@finfiles.nl> 1681192310 +0800	rebase (continue) (pick): Course starting code
+18c587df90a223a85e28f81fbe00f91e515b765e 7fea2e3ee83b35299284f30b81ec3f675b50d52a marvin <marvin@finfiles.nl> 1681192322 +0800	rebase (continue): Start of Components and props
+7fea2e3ee83b35299284f30b81ec3f675b50d52a 839a8d0f51111338d059657403678c5b42c0aa9f marvin <marvin@finfiles.nl> 1681192323 +0800	rebase (continue) (pick): Start of Components and props
+839a8d0f51111338d059657403678c5b42c0aa9f 6f8ba3ddb359c309d36c3017dff1f5678dacf128 marvin <marvin@finfiles.nl> 1681192331 +0800	rebase (continue): Start of Computed propertie
+6f8ba3ddb359c309d36c3017dff1f5678dacf128 c8067fc1750c63bdb6767b0936ae5c46de307ee8 marvin <marvin@finfiles.nl> 1681192354 +0800	rebase (continue): Start of Computed propertie
+c8067fc1750c63bdb6767b0936ae5c46de307ee8 6cc46cb3a8d623e38aea68cc7c3c84a17429eec3 marvin <marvin@finfiles.nl> 1681192374 +0800	rebase (continue): Start of Computed propertie
+6cc46cb3a8d623e38aea68cc7c3c84a17429eec3 9df83b665be83e73654892683b05d9fdc6e635b2 marvin <marvin@finfiles.nl> 1681192385 +0800	rebase (continue): Start of Components and props
+9df83b665be83e73654892683b05d9fdc6e635b2 20a458cdbfb56b4f99c0e449b04a26116a73c733 marvin <marvin@finfiles.nl> 1681192397 +0800	rebase (continue): Start of Components and props
+20a458cdbfb56b4f99c0e449b04a26116a73c733 ca4dfdee9564d6737100c675bf58805465a49c3f marvin <marvin@finfiles.nl> 1681192407 +0800	rebase (continue): End of component
+ca4dfdee9564d6737100c675bf58805465a49c3f 1d925d1b092001d292c7d24043ff14c5bee6f116 marvin <marvin@finfiles.nl> 1681192418 +0800	rebase (continue): End of Components and props
+1d925d1b092001d292c7d24043ff14c5bee6f116 1211bb096eed042bd13111352be845d833b77007 marvin <marvin@finfiles.nl> 1681192431 +0800	rebase (continue): L9 solution
+1211bb096eed042bd13111352be845d833b77007 a5f75b1f54cfd2549dc50c181fd94d9071ef736a marvin <marvin@finfiles.nl> 1681192442 +0800	rebase (continue): L10 starting code
+a5f75b1f54cfd2549dc50c181fd94d9071ef736a 299e0bc8369da7251af26a7f2dd42bf534426464 marvin <marvin@finfiles.nl> 1681192458 +0800	rebase (continue): L10 starting
+299e0bc8369da7251af26a7f2dd42bf534426464 f02c4665adba7550b864378e493383827d6dae43 marvin <marvin@finfiles.nl> 1681192470 +0800	rebase (continue): End of communicating events
+f02c4665adba7550b864378e493383827d6dae43 f02c4665adba7550b864378e493383827d6dae43 marvin <marvin@finfiles.nl> 1681192471 +0800	rebase (continue) (finish): returning to refs/heads/vue3prac
+f02c4665adba7550b864378e493383827d6dae43 d865febb6eafeaa5306306e816158a0f9d44ff7f marvin <marvin@finfiles.nl> 1681196326 +0800	reset: moving to origin/L11-end
+d865febb6eafeaa5306306e816158a0f9d44ff7f 70a58733f5dfe680cb2e2b1bf52f1f56c00b5627 marvin <marvin@finfiles.nl> 1681196374 +0800	reset: moving to origin/L10-end
