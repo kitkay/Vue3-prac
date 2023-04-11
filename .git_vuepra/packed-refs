@@ -1,0 +1,26 @@
+# pack-refs with: peeled fully-peeled sorted 
+70a58733f5dfe680cb2e2b1bf52f1f56c00b5627 refs/remotes/origin/L10-end
+6253c369396c4da6123a3a1bc3d9d529bfc8bc9b refs/remotes/origin/L10-start
+d865febb6eafeaa5306306e816158a0f9d44ff7f refs/remotes/origin/L11-end
+d685796e25329f7f34e7ec9fa8cf8ce725e9f425 refs/remotes/origin/L11-start
+8a079fee7cdee086534485f7e695e2ee5ea8c3f9 refs/remotes/origin/L2-end
+64553482759f5e1532adefaa295464c834690682 refs/remotes/origin/L2-start
+235db1d4c98e917029c89cbea4fae57f9b8a5745 refs/remotes/origin/L3-end
+6ea7ba69e6f8d488d7c85d8638926437549ab535 refs/remotes/origin/L3-start
+fb8d9684ca629710303952a56c01d7a48baf5d18 refs/remotes/origin/L4-end
+b7ba9a971b577b632de02ffa3f549e8fc874c859 refs/remotes/origin/L4-start
+1f70ca7be89028e76a53c3ef0837996a266c4f62 refs/remotes/origin/L5-end
+d0691a96dfafffd788ffa92a3fdd2d2893f2cd16 refs/remotes/origin/L5-start
+277fbeb7da05938236b51875aa9846e49650d2eb refs/remotes/origin/L6-end
+f91df3ac12a821ec2a5fdf257e0adfab05f3ed9e refs/remotes/origin/L6-start
+0c9e048fa1a70bb3c01c65e714f983faef19f595 refs/remotes/origin/L7-end
+dbf00bb4a387075d50f417466192cc60a48dfceb refs/remotes/origin/L7-start
+ddd68ed71a1f4386e867dbdf313077f009c9bea3 refs/remotes/origin/L8-end
+df8fcd0ab62e3b13b2aa855d4f916c53c1319217 refs/remotes/origin/L8-start
+a28d6539d0b1df24fa541e468e58ee129bcc1050 refs/remotes/origin/L9-end
+bc68ec8034f131a1b21d6d43497decc868b335c9 refs/remotes/origin/L9-start
+bef5132a800dcce8bd9e82e03fae494097213666 refs/remotes/origin/final
+8d5ddd851e0d29f9ba073bcc94a719307c0f5238 refs/remotes/origin/master
+c35d35d2897dcf8e6defb8922ee61f16285c1df8 refs/remotes/origin/vue2_version
+64553482759f5e1532adefaa295464c834690682 refs/tags/Course-Starting-Code
+d865febb6eafeaa5306306e816158a0f9d44ff7f refs/tags/final-code

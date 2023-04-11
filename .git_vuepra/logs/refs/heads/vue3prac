@@ -1,0 +1,25 @@
+0000000000000000000000000000000000000000 8d5ddd851e0d29f9ba073bcc94a719307c0f5238 marvin <marvin@finfiles.nl> 1680786928 +0800	branch: Created from master
+8d5ddd851e0d29f9ba073bcc94a719307c0f5238 7fe96b50c37da950319b7c10a697f62405d2c69c marvin <marvin@finfiles.nl> 1680787110 +0800	rebase (continue) (finish): refs/heads/vue3prac onto 6ea7ba69e6f8d488d7c85d8638926437549ab535
+7fe96b50c37da950319b7c10a697f62405d2c69c 858cb30ad9d4ff37dcf53c22ab4cba40dedeea3f marvin <marvin@finfiles.nl> 1680819970 +0800	commit: Attribute Binding
+858cb30ad9d4ff37dcf53c22ab4cba40dedeea3f 70ac2311d70c111a206fa5116b96c82b9ca41475 marvin <marvin@finfiles.nl> 1680820323 +0800	commit: End of Attribute Binding
+70ac2311d70c111a206fa5116b96c82b9ca41475 625bbb356794d751858d08dd69601abf22193169 marvin <marvin@finfiles.nl> 1680820435 +0800	rebase (continue) (finish): refs/heads/vue3prac onto b7ba9a971b577b632de02ffa3f549e8fc874c859
+625bbb356794d751858d08dd69601abf22193169 dd9f6b6b346b7abc85aef031f11c30bcbdb00d15 marvin <marvin@finfiles.nl> 1680821054 +0800	commit: End of Condiitonal Rendering
+dd9f6b6b346b7abc85aef031f11c30bcbdb00d15 9d5e200b8645dcaafffb42fc485cc6d9e5a23f1a marvin <marvin@finfiles.nl> 1680821171 +0800	rebase (continue) (finish): refs/heads/vue3prac onto d0691a96dfafffd788ffa92a3fdd2d2893f2cd16
+9d5e200b8645dcaafffb42fc485cc6d9e5a23f1a bbd5c289674ce1f6b173964c5cc9c000fe7f178f marvin <marvin@finfiles.nl> 1680821558 +0800	commit: End of List Rendering
+bbd5c289674ce1f6b173964c5cc9c000fe7f178f 33550f2c860bf7b1c2f4710e47aa3dd33becfb8f marvin <marvin@finfiles.nl> 1680821824 +0800	rebase (continue) (finish): refs/heads/vue3prac onto f91df3ac12a821ec2a5fdf257e0adfab05f3ed9e
+33550f2c860bf7b1c2f4710e47aa3dd33becfb8f 44b7f5f2a003baac843b280e001e043c8e8cf9fc marvin <marvin@finfiles.nl> 1680821853 +0800	commit: refactored main.js
+44b7f5f2a003baac843b280e001e043c8e8cf9fc ccfd87e5574d0e88d685f8d802ebc35609bfd88a marvin <marvin@finfiles.nl> 1680823602 +0800	commit: End of Event Handling
+ccfd87e5574d0e88d685f8d802ebc35609bfd88a 780fff76d38f131956f57ece8c16ea2284d2fca2 marvin <marvin@finfiles.nl> 1680823920 +0800	rebase (continue) (finish): refs/heads/vue3prac onto dbf00bb4a387075d50f417466192cc60a48dfceb
+780fff76d38f131956f57ece8c16ea2284d2fca2 9b55bb87502cc13f4b0e6a6350823c4b6a67fa1e marvin <marvin@finfiles.nl> 1680827457 +0800	commit: End of Class and Style Binding
+9b55bb87502cc13f4b0e6a6350823c4b6a67fa1e e784966b9bc2a483b2e86c7dd7c3637c1a501c73 marvin <marvin@finfiles.nl> 1680827468 +0800	rebase (finish): refs/heads/vue3prac onto df8fcd0ab62e3b13b2aa855d4f916c53c1319217
+e784966b9bc2a483b2e86c7dd7c3637c1a501c73 2efceac8ccb336debe86a96e63088e6389f42ac3 marvin <marvin@finfiles.nl> 1680827759 +0800	rebase (continue) (finish): refs/heads/vue3prac onto dbf00bb4a387075d50f417466192cc60a48dfceb
+2efceac8ccb336debe86a96e63088e6389f42ac3 05db5fd2bd48096de2656990965177a0a395b562 marvin <marvin@finfiles.nl> 1680834166 +0800	commit: End of Computed properties
+05db5fd2bd48096de2656990965177a0a395b562 34ac5056296023140bc5c649d2a8d6006904ffdc marvin <marvin@finfiles.nl> 1680834472 +0800	rebase (continue) (finish): refs/heads/vue3prac onto bc68ec8034f131a1b21d6d43497decc868b335c9
+34ac5056296023140bc5c649d2a8d6006904ffdc 4136dc8ceeff5f2c113b82020c72aea469274a4a marvin <marvin@finfiles.nl> 1680835972 +0800	commit: End of component
+4136dc8ceeff5f2c113b82020c72aea469274a4a fd0a43c03c0ea2e06a7690c6bfc6aeab6b2f24c2 marvin <marvin@finfiles.nl> 1680836787 +0800	commit: End of Components and props
+fd0a43c03c0ea2e06a7690c6bfc6aeab6b2f24c2 cbbe1c3a44a8553e366586113f260967d315094a marvin <marvin@finfiles.nl> 1680837062 +0800	commit (merge): Merge remote-tracking branch 'origin/L10-start' into vue3prac
+cbbe1c3a44a8553e366586113f260967d315094a e6422eb2a64b81b67655d9e39939afebac404cc2 marvin <marvin@finfiles.nl> 1681192220 +0800	commit: End of communicating events
+e6422eb2a64b81b67655d9e39939afebac404cc2 f02c4665adba7550b864378e493383827d6dae43 marvin <marvin@finfiles.nl> 1681192471 +0800	rebase (continue) (finish): refs/heads/vue3prac onto d685796e25329f7f34e7ec9fa8cf8ce725e9f425
+f02c4665adba7550b864378e493383827d6dae43 d865febb6eafeaa5306306e816158a0f9d44ff7f marvin <marvin@finfiles.nl> 1681196326 +0800	reset: moving to origin/L11-end
+d865febb6eafeaa5306306e816158a0f9d44ff7f 70a58733f5dfe680cb2e2b1bf52f1f56c00b5627 marvin <marvin@finfiles.nl> 1681196374 +0800	reset: moving to origin/L10-end
+70a58733f5dfe680cb2e2b1bf52f1f56c00b5627 d685796e25329f7f34e7ec9fa8cf8ce725e9f425 marvin <marvin@finfiles.nl> 1681196983 +0800	reset: moving to origin/L11-start
